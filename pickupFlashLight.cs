@@ -64,7 +64,7 @@ public class pickupFlashlight : MonoBehaviour
 
                 interactable = false;
 
-                //pickup.Play();
+        
 
                 flashlight_hand.SetActive(true);
 
